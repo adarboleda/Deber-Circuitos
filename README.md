@@ -29,7 +29,8 @@ Considerar la Taxonomía de Bloom
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 1.Exprese cada uno de los números siguientes en notación científica:
-(a) 3000 (b) 75,000 (c) 2,000,000
+
+  (a) 3000 (b) 75,000 (c) 2,000,000
 
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
 La solución deb estar en esta sección, no como un archivo anexo.
