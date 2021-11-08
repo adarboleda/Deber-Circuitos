@@ -22,6 +22,7 @@ Al finalizar la investigación, los objetivos han de ser identificables con los 
 Considerar la Taxonomía de Bloom
 
 2. MARCO TEÓRICO (RESUMEN)
+
 ![image](https://user-images.githubusercontent.com/93734334/140824820-72042b18-771c-4944-8f06-0e875233a966.png)
 
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
