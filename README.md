@@ -28,7 +28,7 @@ Considerar la Taxonomía de Bloom
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-1.Exprese cada uno de los números siguientes en notación científica:
+1. Exprese cada uno de los números siguientes en notación científica:
 
   (a) 3000 (b) 75,000 (c) 2,000,000
 
