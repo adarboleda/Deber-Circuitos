@@ -23,8 +23,6 @@ Considerar la Taxonomía de Bloom
 
 2. MARCO TEÓRICO (RESUMEN)
 
-![image](https://user-images.githubusercontent.com/93734334/140824820-72042b18-771c-4944-8f06-0e875233a966.png)
-
 ![image](https://user-images.githubusercontent.com/93734334/140825229-9d0b57de-c130-4f57-a394-61e08af0354d.png)
 
 
