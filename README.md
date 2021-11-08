@@ -25,6 +25,9 @@ Considerar la Taxonomía de Bloom
 
 ![image](https://user-images.githubusercontent.com/93734334/140824820-72042b18-771c-4944-8f06-0e875233a966.png)
 
+![image](https://user-images.githubusercontent.com/93734334/140825229-9d0b57de-c130-4f57-a394-61e08af0354d.png)
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
