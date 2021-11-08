@@ -29,7 +29,14 @@ Considerar la Taxonomía de Bloom
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 1) Exprese cada uno de los números siguientes en notación científica:                                                                                                                
-  (a) 3000 (b) 75,000 (c) 2,000,000
+  (a) 3000  (b) 75,000  (c) 2,000,000 
+	
+	* 3000=3x10^3
+	* 75,000=7,5x10^4	
+	* 2,000,000=2x10^6
+	
+2) Exprese cada número fraccionario en notación científica:                                                                                                                           
+(a) 1/500 (b) 1/2000 (c) 1/5,000,000
 
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
 La solución deb estar en esta sección, no como un archivo anexo.
