@@ -36,16 +36,22 @@ Considerar la Taxonomía de Bloom
 1) Exprese cada uno de los números siguientes en notación científica:                                                                                                                
   (a) 3000  (b) 75,000  (c) 2,000,000 
 	
-* 3000=3x10^3
-* 75,000=7.5x10^4
-* 2,000,000=2x10^6	
+* 3000 = 3 x 10^3
+* 75,000 = 7.5 x 10^4
+* 2,000,000 = 2 x 10^6	
 	
 3. Exprese cada uno de los números siguientes en notación científica:                                                                                                                 
-(a) 8400 (b) 99,000 (c) 0.2x10^6
+(a) 8400 (b) 99,000 (c) 0.2 x 10^6
 
-* 8400=8.+4x10^3
-* 99,000=9.9x10^4
-* 0.2x10^6=2x10^5
+* 8400 = 8.4 x 10^3
+* 99,000 = 9.9 x 10^4
+* 0.2 x 10^6 = 2 x 10^5
+
+5. Exprese cada uno de los números siguientes en notación científica:                                                                                                              (a) 32 x 10^3 (b) 6800 x 10^-6 (c) 870 x 10^8 
+
+* 32 x 10^3 = 3.2 x 10^4
+* 6800 x 10^-6 = 6.8 x 10^-3
+* 870 x 10^8 = 8.7 x 10^10
 
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
 La solución deb estar en esta sección, no como un archivo anexo.
