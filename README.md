@@ -14,7 +14,7 @@ Objetivo Específico
 
 2. MARCO TEÓRICO
 
-![image](https://user-images.githubusercontent.com/93734334/140825229-9d0b57de-c130-4f57-a394-61e08af0354d.png)
+![image](https://user-images.githubusercontent.com/93734334/141020868-4bc67c43-283b-44c9-a0a7-08fe9a2996d7.png)
 
 ![image](https://user-images.githubusercontent.com/93734334/140838594-f8d7e4fb-33dd-4779-8a86-5f18053a194c.png)
 
@@ -117,7 +117,8 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+* Como conclusión, se tiene que existen dos unidades de medición, las fundamentales que a su vez se van a dividir en siete unidades fundamentales y dos unidades complementarias, por otro lado, existen las unidades derivadas, las cuales son utilizadas por las unidades eléctricas y magnéticas. De igual manera la notacion científica es de suma importancia puesto que va a ayudar a representar numeros muy grandes o muy pequeños para posteriormente poder realizar calculos con estos.
+* 
 
 6. BIBLIOGRAFÍA
 
