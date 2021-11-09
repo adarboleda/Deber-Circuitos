@@ -118,7 +118,7 @@ En el video se debe explicar 4 ejercicios o problemas.
 5. CONCLUSIONES
 
 * Como conclusión, se tiene que existen dos unidades de medición, las fundamentales que a su vez se van a dividir en siete unidades fundamentales y dos unidades complementarias, por otro lado, existen las unidades derivadas, las cuales son utilizadas por las unidades eléctricas y magnéticas. De igual manera la notacion científica es de suma importancia puesto que va a ayudar a representar numeros muy grandes o muy pequeños para posteriormente poder realizar calculos con estos.
-* 
+* También se tiene se tiene que la notación de ingeniería es importante en los campos técnicos, específicamente en electrónica se usa para representar valores de voltaje, corriente, potencia, resistencia, entre otros. Esta está relacionada con los prefijos métricos que son usados exclusivamente con números que tienen una unidad de medida como volts o amperes, como ejemplos de prefijos se tiene mili, kilo, mega, entre otros. Convertir unidades es fundamental puesto que muchas veces es necesario convertir la cantidad de una unidad que tiene un prefijo métrico a otra. 
 
 6. BIBLIOGRAFÍA
 
