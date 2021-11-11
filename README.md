@@ -246,7 +246,8 @@ Objetivo Específico
      
      **V = 4 V**
 
-7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
+7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de
+un resistor?
 
      V=W/C
     
@@ -256,7 +257,8 @@ Objetivo Específico
     
       **V=20**
 
-9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía
+calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
 
       I=Q/t
       
