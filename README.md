@@ -161,9 +161,27 @@ Objetivo Específico
     = 10.000.000
     = 10.000 x 10^3
     = **10.000 kW**
-	      
-		
+    
+29. Sume las siguientes cantidades:
 
+(a) 50 mA + 680 uA
+Resolvemos = 50 x 10^-3[A] + 680 x 10^-6 [A]
+= 50 x 10^-3 [A] + 0.68 x 10^-3 [A]
+= 50.68 X 10^-3 [A]
+= **50.68 mA**
+
+(b) 120 kΩ + 2.2 MΩ
+Resolvemos = 120 x 10^3 + 2.2 x 10^6
+= 120 x 10^3 + 2200 x 10^3
+= 2.32 x 10^3
+= 2.32 x 10^6
+= **2.32 MΩ
+
+(c) 0.02 uF + 3300 pF
+Resolvemos = 0.02 x 10^3 F + 3300 x 10^-12 F
+= 0.02 x 10^-6 F + 0.0033 X 10^-6 F
+= 0.0233 X 10^-6 F
+= **0.0233 uF**
 
 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
 
@@ -184,9 +202,6 @@ Objetivo Específico
 35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:                                                                                                                                                                       
 VS1 conectada a R1 y VS2 conectada a R2                                                                                                                                      o                                                                                                                                                                           
 VS1 conectada a R2 y VS2 conectada a R1
-
-![image](https://user-images.githubusercontent.com/93734334/141290561-5fccecc5-f558-4557-9917-c26cee9cde2f.png)
-
 4. VIDEO
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
