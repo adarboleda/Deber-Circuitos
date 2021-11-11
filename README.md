@@ -216,9 +216,9 @@ Objetivo Específico
 
 3. ¿Cuántos coulombs de carga poseen 50 X 10^31 electrones?
 
-  Q = (50 X 10^31)/(6.25 X 10^18)
-
-**Q = 8.0 X 10^12C**
+    Q = (50 X 10^31)/(6.25 X 10^18)
+    
+    **Q = 8.0 X 10^12C**
 
 **Sección 2–3 Voltaje, corriente y resistencia**
 
@@ -228,41 +228,44 @@ Objetivo Específico
    
    Resolvemos mediante la formula **V = W/Q**
    
-   V = 10 J/C
-   
- **V = 10 V**
+    V = 10 J/C
+    
+    **V = 10 V**
    
    (b) 5J/2C
    
-   V = 5J/2C
-   
- **V = 2.5 V**
+    V = 5J/2C
+    
+    **V = 2.5 V**
    
    (c) 100J/25C
    
-   V = 100 J/25 C
+     V = 100 J/25 C
    
-   V = 4(25) J/25 C
-   
- **V = 4 V**
+     V = 4(25) J/25 C
+     
+     **V = 4 V**
 
 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
 
-V=W/C
-V=800J/40C
-V=80J/4C
-**V=20**
+     V=W/C
+    
+     V=800J/40C
+    
+     V=80J/4C
+    
+      **V=20**
 
 9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
 
-I=Q/t
-Q=Ixt
-Q=2x15
-Q=30
+      I=Q/t
+      Q=Ixt
+      Q=2x15
+      Q=30
 
-V=W/Q
-V=1000/30
-**V=33.3 [V]**
+      V=W/Q
+      V=1000/30
+      **V=33.3 [V]**
 
 **Sección 2 – 3 Voltaje corriente y resistencia**
 
