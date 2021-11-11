@@ -116,9 +116,25 @@ Objetivo Específico
     	      
 23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 
-    (a) 3 x 10^-6F
-     Respuesta = **3 uF**
-   
+    (a) 3 x 10^-6 F
+     Respuesta = **3  uF**
+     
+    (b) 3.3 x 10^6 Ω
+    Respuesta = **3.3 MΩ**
+    
+    (c) 350 x 10^-9 A
+    Respuesta = **350 nA**
+    
+25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
+
+    (a) 7.5 pA
+    Respuesta = **7.5 x 10^-12 [A]**
+    
+    (b) 3.3 GHz
+    Respuesta = **3.3 x 10^9 [Hz]**
+    
+    (c) 280 nW
+    Respuesta = **2.8 x 10^-7 [W]**
 	      
 		
 
