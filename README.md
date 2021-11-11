@@ -1,4 +1,4 @@
-# Informe
+# Deber-Circuitos
 
 
 1. OBJETIVOS
@@ -40,8 +40,6 @@ Objetivo Específico
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-
-* **Capitulo 1**
 
 1) Exprese cada uno de los números siguientes en notación científica:                                                                                                                
   (a) 3000  (b) 75,000  (c) 2,000,000 
@@ -267,7 +265,7 @@ Datos
 
 t = 0.1 s
 
-**I = 1.5 A**
+I = 1.5 A
 
 Planteamiento
 
@@ -387,22 +385,34 @@ tolerancia: 330 Ω, 2.2 kΩ, 56 kΩ,  100 kΩ y 39 kΩ
 VS1 conectada a R1 y VS2 conectada a R2                                                                                                                                      o                                                                                                                                                                           
 VS1 conectada a R2 y VS2 conectada a R1
 
-**Respuesta**
-
-![image](https://user-images.githubusercontent.com/93734334/141317211-86897cd6-af06-4f87-a3e9-3d561e3c8dd3.png)
-
 37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de 
 fuente en la figura 2-72.
 
-![image](https://user-images.githubusercontent.com/93733175/141316630-ad15dcdb-1a43-44e3-8ca1-1f83e95d5f51.png)
-
-
-
-43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
-
 ![image](https://user-images.githubusercontent.com/93733175/141316825-4f88d31f-8272-46e1-a87c-64a4ea0c1948.png)
 
-**Respuesta**
+* **Respuesta**
+![image](https://user-images.githubusercontent.com/93733175/141316630-ad15dcdb-1a43-44e3-8ca1-1f83e95d5f51.png)
+
+39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
+¿En la posición 2?
+
+![image](https://user-images.githubusercontent.com/93733175/141317897-d3e92528-3280-4ea6-b0cc-8d4e2b3302ab.png)
+
+* **Respuesta**
+  
+  Posición 1: V1 = 0 V, V2 = Vs
+  Posición 2: V1 = Vs, V2 = 0 V
+  
+41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a 
+través del resistor y la que sale de la batería.
+
+![image](https://user-images.githubusercontent.com/93733175/141318970-e1580ea8-965d-400c-baee-835401492257.png)
+
+* **Respuesta**
+
+![image](https://user-images.githubusercontent.com/93733175/141319945-de24394f-2ba5-4d22-b5c9-3161bb81b7aa.png)
+
+43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 
 ![imagen](https://user-images.githubusercontent.com/93879569/141306490-ef188de8-b0d7-4392-bc17-fcac8b590994.png)
 
