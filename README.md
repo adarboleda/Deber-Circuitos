@@ -1,4 +1,4 @@
-# Deber-Circuitos
+# Informe 1
 
 
 1. OBJETIVOS
