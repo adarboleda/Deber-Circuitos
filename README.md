@@ -114,51 +114,57 @@ Objetivo Específico
 * 560 x 10^3 ÷ (660 x 10^3) = 560/660 x 10^(3-3) = 0.848485 x 10^0 = **84.8485 x 10^-3**
 
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
+* Reslución
 
     (a) 0.000345
     
-     Resolvemos = 345 x 10^-6
+    Resolvemos = 345 x 10^-6
      **= 345 uA**
              
     (b) 0.025
     
-    Resolvemos = 25 x 10^-3
+   Resolvemos = 25 x 10^-3
     **= 25 mA**
     
     (c) 0.00000000129
     
-    Resolvemos = 1.29 x 10^-9
+   Resolvemos = 1.29 x 10^-9
     **= 1.29 nA**
+    
 23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+* Resolución
 
     (a) 3 x 10^-6 F
     
-     Respuesta = **3  uF**
+    * Respuesta = **3  uF**
      
     (b) 3.3 x 10^6 Ω
     
-    Respuesta = **3.3 MΩ**
+   * Respuesta = **3.3 MΩ**
     
     (c) 350 x 10^-9 A
     
-    Respuesta = **350 nA**
+   * Respuesta = **350 nA**
+    
 25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
+* Resolución
 
     (a) 7.5 pA
     
-    Respuesta = **7.5 x 10^-12 [A]**
+   Respuesta = **7.5 x 10^-12 [A]**
     
     (b) 3.3 GHz
     
-    Respuesta = **3.3 x 10^9 [Hz]**
+   Respuesta = **3.3 x 10^9 [Hz]**
     
     (c) 280 nW
     
-    Respuesta = **2.8 x 10^-7 [W]**
+   Respuesta = **2.8 x 10^-7 [W]**
     
-    **SECCIÓN 1–4 Conversiones de unidades métricas**
+   **SECCIÓN 1–4 Conversiones de unidades métricas**
     
 27. Realice las conversiones indicadas:
+* Resolución
 
     (a) 5 mA a microamperes
     
@@ -228,10 +234,11 @@ Objetivo Específico
 **Sección 2–3 Voltaje, corriente y resistencia**
 
 5. Determine el voltaje en cada uno de los siguientes casos:
+* Resolución
 
    (a) 10J/C
    
-  Resolvemos mediante la formula **V = W/Q**
+   Resolvemos mediante la formula **V = W/Q**
    
     V = 10 J/C
     
@@ -252,6 +259,7 @@ Objetivo Específico
      **V = 4 V**
 
 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
+* Resolución
 
      V=W/C
     
