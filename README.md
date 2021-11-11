@@ -208,17 +208,43 @@ Objetivo Específico
 
 * **Capitulo 2**
 
+**Sección 2-2 Carga Eléctrica**
+
 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+
+* **Respuesta: 4.64 x 10^-18C**
 
 3. ¿Cuántos coulombs de carga poseen 50 X 10^31 electrones?
 
+  Q = (50 X 10^31)/(6.25 X 10^18)
+
+**Q = 8.0 X 10^12C**
+
+**Sección 2–3 Voltaje, corriente y resistencia**
+
 5. Determine el voltaje en cada uno de los siguientes casos:
 
-(a) 10J/C
-
-(b) 5J/2C
-
-(c) 100J/25C
+   (a) 10J/C
+   
+   Resolvemos mediante la formula **V = W/Q**
+   
+   V = 10 J/C
+   
+ **V = 10 V**
+   
+   (b) 5J/2C
+   
+   V = 5J/2C
+   
+ **V = 2.5 V**
+   
+   (c) 100J/25C
+   
+   V = 100 J/25 C
+   
+   V = 4(25) J/25 C
+   
+ **V = 4 V**
 
 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
 
@@ -238,7 +264,7 @@ V=W/Q
 V=1000/30
 **V=33.3 [V]**
 
-Sección 2 – 3 Voltaje corriente y resistencia
+**Sección 2 – 3 Voltaje corriente y resistencia**
 
 11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
 
@@ -301,7 +327,7 @@ G=  1/(25 Ω)
 G=  1/(100 Ω)
 **G=0.01 mho**
 
-Sección 2 – 4
+**Sección 2 – 4 Fuentes de voltaje y de corriente**
 17. Enliste cuatro fuentes de voltaje comunes.
 	
 	**Batería**
@@ -316,7 +342,7 @@ Sección 2 – 4
 
 **La fuente electrónica de potencia convierte el voltaje de corriente alterna de una toma de corriente de pared en voltaje constante de corriente directa**
 
-Sección 2 – 5
+**Sección 2 – 5 Resistores**
 
 21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
 
@@ -365,6 +391,8 @@ tolerancia: 330 Ω, 2.2 kΩ, 56 kΩ,  100 kΩ y 39 kΩ
 
 4K7 = **4.7 k Ω**
 
+**Sección 2-6 El circuito eléctrico**
+
 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
 
 ![image](https://user-images.githubusercontent.com/93734334/141009051-447953a4-8386-4953-a4d0-14b9c7637c64.png)
@@ -384,6 +412,8 @@ tolerancia: 330 Ω, 2.2 kΩ, 56 kΩ,  100 kΩ y 39 kΩ
 35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:                                                                                                                                                                       
 VS1 conectada a R1 y VS2 conectada a R2                                                                                                                                      o                                                                                                                                                                           
 VS1 conectada a R2 y VS2 conectada a R1
+
+**Sección 2-7 Mediciones de circuitos básicos**
 
 37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de 
 fuente en la figura 2-72.
