@@ -206,6 +206,8 @@ Resolvemos = 0.02 x 10^3 F + 3300 x 10^-12 F
 = 0.0233 X 10^-6 F
 = **0.0233 uF**
 
+* **Capitulo 2**
+
 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
 
 3. ¿Cuántos coulombs de carga poseen 50 X 10^31 electrones?
@@ -235,26 +237,6 @@ Q=30
 V=W/Q
 V=1000/30
 **V=33.3 [V]**
-
-31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
-
-![image](https://user-images.githubusercontent.com/93734334/141009051-447953a4-8386-4953-a4d0-14b9c7637c64.png)
-
-* **Respuesta**
-
-![image](https://user-images.githubusercontent.com/93734334/141008456-e445a164-fd66-4583-8937-ccbf4899ac4b.png)
-
-33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
-
-![image](https://user-images.githubusercontent.com/93734334/141009051-447953a4-8386-4953-a4d0-14b9c7637c64.png)
-
-* **Respuesta**
-
-![image](https://user-images.githubusercontent.com/93734334/141009693-c51304e3-03ee-4875-88c2-c60a0179a15e.png)
-
-35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:                                                                                                                                                                       
-VS1 conectada a R1 y VS2 conectada a R2                                                                                                                                      o                                                                                                                                                                           
-VS1 conectada a R2 y VS2 conectada a R1
 
 Sección 2 – 3 Voltaje corriente y resistencia
 
@@ -383,6 +365,26 @@ tolerancia: 330 Ω, 2.2 kΩ, 56 kΩ,  100 kΩ y 39 kΩ
 
 4K7 = **4.7 k Ω**
 
+31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
+
+![image](https://user-images.githubusercontent.com/93734334/141009051-447953a4-8386-4953-a4d0-14b9c7637c64.png)
+
+* **Respuesta**
+
+![image](https://user-images.githubusercontent.com/93734334/141008456-e445a164-fd66-4583-8937-ccbf4899ac4b.png)
+
+33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
+
+![image](https://user-images.githubusercontent.com/93734334/141009051-447953a4-8386-4953-a4d0-14b9c7637c64.png)
+
+* **Respuesta**
+
+![image](https://user-images.githubusercontent.com/93734334/141009693-c51304e3-03ee-4875-88c2-c60a0179a15e.png)
+
+35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:                                                                                                                                                                       
+VS1 conectada a R1 y VS2 conectada a R2                                                                                                                                      o                                                                                                                                                                           
+VS1 conectada a R2 y VS2 conectada a R1
+
 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 
 ![imagen](https://user-images.githubusercontent.com/93879569/141306490-ef188de8-b0d7-4392-bc17-fcac8b590994.png)
@@ -418,9 +420,7 @@ Respuesta : **250 V**
 
 4. VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
-
+https://youtu.be/IVO7b2zQo7s
 
 5. CONCLUSIONES
 
