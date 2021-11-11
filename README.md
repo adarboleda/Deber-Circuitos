@@ -94,10 +94,10 @@ Objetivo Específico
 * 560 x 10^3 ÷ (660 x 10^3) = 560/660 x 10^(3-3) = 0.848485 x 10^0 = **84.8485 x 10^-3**
 
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
-
-a)0.000345
-
-Resolvemos: 345 x 10^-6
+a) 0.000345
+Resolvemos = 345 x 10^-6
+	   = 345 uA
+		
 
 
 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
