@@ -41,6 +41,10 @@ Objetivo Específico
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+* **Capitulo 1**
+
+**SECCIÓN 1–2 Notación científica**
+
 1) Exprese cada uno de los números siguientes en notación científica:                                                                                                                
   (a) 3000  (b) 75,000  (c) 2,000,000 
 	
@@ -78,6 +82,8 @@ Objetivo Específico
 * (5 x 10^3)(4 x 10^5) = 5x4 x 10^(3+5) = **2 x 10^9**
 * (1.2 x 10^12)(3 x 10^2) = 1.2x3 x 10^(12+2) = **3.6 x 10^14**
 * (2.2 x 10^-9)(7 x 10^-6) = 2.2x7 x 10^(-9-6) = **15.4 x 10^-15**
+
+**SECCIÓN 1–3 Notación de ingeniería y prefijos métricos**
 
 13. Exprese cada uno de los números siguientes en notación de ingeniería:                                                                                                         
 (a) 89,000 (b) 450,000 (c) 12,040,000,000,000
@@ -149,6 +155,9 @@ Objetivo Específico
     (c) 280 nW
     
     Respuesta = **2.8 x 10^-7 [W]**
+    
+    **SECCIÓN 1–4 Conversiones de unidades métricas**
+    
 27. Realice las conversiones indicadas:
 
     (a) 5 mA a microamperes
@@ -226,21 +235,21 @@ Objetivo Específico
    
     V = 10 J/C
     
-   **V = 10 V**
+    **V = 10 V**
    
    (b) 5J/2C
    
     V = 5J/2C
     
-   **V = 2.5 V**
+    **V = 2.5 V**
    
    (c) 100J/25C
    
-    V = 100 J/25 C
+     V = 100 J/25 C
    
-    V = 4(25) J/25 C
-    
-   **V = 4 V**
+     V = 4(25) J/25 C
+     
+     **V = 4 V**
 
 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
 
@@ -343,7 +352,7 @@ G=  1/(100 Ω)
 	
 	**Termopares**
 
-19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+19.¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
 
 **La fuente electrónica de potencia convierte el voltaje de corriente alterna de una toma de corriente de pared en voltaje constante de corriente directa**
 
