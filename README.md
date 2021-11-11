@@ -1,4 +1,4 @@
-# Deber-Circuitos
+# Informe
 
 
 1. OBJETIVOS
@@ -40,6 +40,8 @@ Objetivo Específico
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+* **Capitulo 1**
 
 1) Exprese cada uno de los números siguientes en notación científica:                                                                                                                
   (a) 3000  (b) 75,000  (c) 2,000,000 
@@ -384,6 +386,10 @@ tolerancia: 330 Ω, 2.2 kΩ, 56 kΩ,  100 kΩ y 39 kΩ
 35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:                                                                                                                                                                       
 VS1 conectada a R1 y VS2 conectada a R2                                                                                                                                      o                                                                                                                                                                           
 VS1 conectada a R2 y VS2 conectada a R1
+
+**Respuesta**
+
+![image](https://user-images.githubusercontent.com/93734334/141317211-86897cd6-af06-4f87-a3e9-3d561e3c8dd3.png)
 
 37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de 
 fuente en la figura 2-72.
