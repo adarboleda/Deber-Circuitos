@@ -267,7 +267,7 @@ Datos
 
 t = 0.1 s
 
-I = 1.5 A
+**I = 1.5 A**
 
 Planteamiento
 
