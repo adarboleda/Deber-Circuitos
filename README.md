@@ -139,7 +139,7 @@ Objetivo Específico
 27. Realice las conversiones indicadas:
 
     (a) 5 mA a microamperes 
-    Resolvemos = 0.005 x 10^-6 [A]
+    	Resolvemos = 0.005 x 10^-6 [A]
     
     	
     (b) 3200 uW a miliwatts
