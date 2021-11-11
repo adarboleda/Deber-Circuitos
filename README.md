@@ -110,60 +110,73 @@ Objetivo Específico
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
 
     (a) 0.000345
+    
      Resolvemos = 345 x 10^-6
      **= 345 uA**
              
     (b) 0.025
+    
     Resolvemos = 25 x 10^-3
     **= 25 mA**
     
     (c) 0.00000000129
+    
     Resolvemos = 1.29 x 10^-9
     **= 1.29 nA**
     	      
 23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 
     (a) 3 x 10^-6 F
+    
      Respuesta = **3  uF**
      
     (b) 3.3 x 10^6 Ω
+    
     Respuesta = **3.3 MΩ**
     
     (c) 350 x 10^-9 A
+    
     Respuesta = **350 nA**
     
 25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
 
     (a) 7.5 pA
+    
     Respuesta = **7.5 x 10^-12 [A]**
     
     (b) 3.3 GHz
+    
     Respuesta = **3.3 x 10^9 [Hz]**
     
     (c) 280 nW
+    
     Respuesta = **2.8 x 10^-7 [W]**
     
 27. Realice las conversiones indicadas:
 
-    (a) 5 mA a microampereS
+    (a) 5 mA a microamperes
+    
     Resolvemos = 0.005 x 10^-6 [A]
     = 0.0000000005 [A]
     =5000 X 10^-6 [A]
     = **5000 uA**
         	
     (b) 3200 uW a miliwatts
+    
     Resolvemos = 3200 x 10^-6 
     = 3.2 x 10^-6+3
     = 3.2 x 10^-3
     = **3.2 mW** 
     
     (c) 5000 kV a megavolts
+    
     Resolvemos = 5000 x 10^3
     = 5 x 10^3+3
     = 5 x 10^6
     = **5 MV**
        
     (d) 10 MW a kilowatts 
+    
     Resolvemos = 10 x 10^6
     = 10.000.000
     = 10.000 x 10^3
@@ -172,12 +185,14 @@ Objetivo Específico
 29. Sume las siguientes cantidades:
 
 (a) 50 mA + 680 uA
+
 Resolvemos = 50 x 10^-3[A] + 680 x 10^-6 [A]
 = 50 x 10^-3 [A] + 0.68 x 10^-3 [A]
 = 50.68 X 10^-3 [A]
 = **50.68 mA**
 
 (b) 120 kΩ + 2.2 MΩ
+
 Resolvemos = 120 x 10^3 + 2.2 x 10^6
 = 120 x 10^3 + 2200 x 10^3
 = 2.32 x 10^3
@@ -185,6 +200,7 @@ Resolvemos = 120 x 10^3 + 2.2 x 10^6
 = **2.32 MΩ
 
 (c) 0.02 uF + 3300 pF
+
 Resolvemos = 0.02 x 10^3 F + 3300 x 10^-12 F
 = 0.02 x 10^-6 F + 0.0033 X 10^-6 F
 = 0.0233 X 10^-6 F
