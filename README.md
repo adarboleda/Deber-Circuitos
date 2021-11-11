@@ -391,6 +391,7 @@ fuente en la figura 2-72.
 ![image](https://user-images.githubusercontent.com/93733175/141316825-4f88d31f-8272-46e1-a87c-64a4ea0c1948.png)
 
 * **Respuesta**
+
 ![image](https://user-images.githubusercontent.com/93733175/141316630-ad15dcdb-1a43-44e3-8ca1-1f83e95d5f51.png)
 
 39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
@@ -401,6 +402,7 @@ fuente en la figura 2-72.
 * **Respuesta**
   
   Posición 1: V1 = 0 V, V2 = Vs
+  
   Posición 2: V1 = Vs, V2 = 0 V
   
 41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a 
