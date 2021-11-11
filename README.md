@@ -124,7 +124,7 @@ Objetivo Específico
     Resolvemos = 1.29 x 10^-9
     **= 1.29 nA**
     	      
-23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+22. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 
     (a) 3 x 10^-6 F
     
@@ -138,7 +138,7 @@ Objetivo Específico
     
     Respuesta = **350 nA**
     
-25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
+23. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
 
     (a) 7.5 pA
     
@@ -152,7 +152,7 @@ Objetivo Específico
     
     Respuesta = **2.8 x 10^-7 [W]**
     
-27. Realice las conversiones indicadas:
+24. Realice las conversiones indicadas:
 
     (a) 5 mA a microamperes
     
@@ -182,7 +182,7 @@ Objetivo Específico
     = 10.000 x 10^3
     = **10.000 kW**
     
-29. Sume las siguientes cantidades:
+25. Sume las siguientes cantidades:
 
     (a) 50 mA + 680 uA
 
@@ -259,12 +259,17 @@ Objetivo Específico
 9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
 
       I=Q/t
+      
       Q=Ixt
+      
       Q=2x15
+      
       Q=30
 
       V=W/Q
+      
       V=1000/30
+      
       **V=33.3 [V]**
 
 **Sección 2 – 3 Voltaje corriente y resistencia**
