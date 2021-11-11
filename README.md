@@ -184,27 +184,27 @@ Objetivo Específico
     
 29. Sume las siguientes cantidades:
 
-(a) 50 mA + 680 uA
+    (a) 50 mA + 680 uA
 
-Resolvemos = 50 x 10^-3[A] + 680 x 10^-6 [A]
-= 50 x 10^-3 [A] + 0.68 x 10^-3 [A]
-= 50.68 X 10^-3 [A]
-= **50.68 mA**
+    Resolvemos = 50 x 10^-3[A] + 680 x 10^-6 [A]
+    = 50 x 10^-3 [A] + 0.68 x 10^-3 [A]
+    = 50.68 X 10^-3 [A]
+    = **50.68 mA**
 
-(b) 120 kΩ + 2.2 MΩ
+    (b) 120 kΩ + 2.2 MΩ
 
-Resolvemos = 120 x 10^3 + 2.2 x 10^6
-= 120 x 10^3 + 2200 x 10^3
-= 2.32 x 10^3
-= 2.32 x 10^6
-= **2.32 MΩ**
+    Resolvemos = 120 x 10^3 + 2.2 x 10^6
+    = 120 x 10^3 + 2200 x 10^3
+    = 2.32 x 10^3
+    = 2.32 x 10^6
+    = **2.32 MΩ**
 
-(c) 0.02 uF + 3300 pF
+    (c) 0.02 uF + 3300 pF
 
-Resolvemos = 0.02 x 10^3 F + 3300 x 10^-12 F
-= 0.02 x 10^-6 F + 0.0033 X 10^-6 F
-= 0.0233 X 10^-6 F
-= **0.0233 uF**
+    Resolvemos = 0.02 x 10^3 F + 3300 x 10^-12 F
+    = 0.02 x 10^-6 F + 0.0033 X 10^-6 F
+    = 0.0233 X 10^-6 F
+    = **0.0233 uF**
 
 * **Capitulo 2**
 
@@ -385,7 +385,18 @@ tolerancia: 330 Ω, 2.2 kΩ, 56 kΩ,  100 kΩ y 39 kΩ
 VS1 conectada a R1 y VS2 conectada a R2                                                                                                                                      o                                                                                                                                                                           
 VS1 conectada a R2 y VS2 conectada a R1
 
+37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de 
+fuente en la figura 2-72.
+
+![image](https://user-images.githubusercontent.com/93733175/141316630-ad15dcdb-1a43-44e3-8ca1-1f83e95d5f51.png)
+
+
+
 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+
+![image](https://user-images.githubusercontent.com/93733175/141316825-4f88d31f-8272-46e1-a87c-64a4ea0c1948.png)
+
+**Respuesta**
 
 ![imagen](https://user-images.githubusercontent.com/93879569/141306490-ef188de8-b0d7-4392-bc17-fcac8b590994.png)
 
