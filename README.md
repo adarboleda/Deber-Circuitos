@@ -104,7 +104,14 @@ Objetivo Específico
 
 a) 0.000345  
    Resolvemos = 345 x 10^-6
-    	      =**345 uA
+   		=
+    	      
+
+23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+ 
+  a) 3 x 10^-6F
+  Respuesta = **3 uF**
+  
 	      
 		
 
