@@ -336,6 +336,7 @@ G=  1/(100 Ω)
 **G=0.01 mho**
 
 **Sección 2 – 4 Fuentes de voltaje y de corriente**
+
 17. Enliste cuatro fuentes de voltaje comunes.
 	
 	**Batería**
@@ -496,6 +497,7 @@ https://youtu.be/IVO7b2zQo7s
 * Un circuito necesita tener al menos una resistencia para que no se genere un cortocircuito, y el código de colores es clave para saber que resistor agregar al circuito según la fuente de voltaje.
 * Al utilizar un instrumento de medición se debe tener un previo conocimiento de cómo se debe conectar al circuito para saber una medida en particular y para el cuidado del dispositivo se debe tener en cuenta la cantidad de voltaje que aguanta para no dañar el equipo.
 * Al realizar trabajos con circuitos es necesario conocer las medidas de seguridad para no ocasionar daños al entorno y a la persona misma como un ejemplo es la conexión tierra en tierra es necesaria para dispersar el exceso de voltaje que pudiera haber.
+* Se llegó a la conclusión que la relación de voltaje, corriente y resistencia es bastante útil ya que si se emplea adecuadamente los conocimientos teóricos en este caso la ley de Ohm se puede dar solución a los requerimientos que se tengan, esto sirve para corroborar la importancia y la utilidad que una fuente variable tiene en la mayoría de los circuitos eléctricos.
 
 
 
