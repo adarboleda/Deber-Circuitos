@@ -184,6 +184,9 @@ Objetivo Específico
 35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:                                                                                                                                                                       
 VS1 conectada a R1 y VS2 conectada a R2                                                                                                                                      o                                                                                                                                                                           
 VS1 conectada a R2 y VS2 conectada a R1
+
+![image](https://user-images.githubusercontent.com/93734334/141290561-5fccecc5-f558-4557-9917-c26cee9cde2f.png)
+
 4. VIDEO
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
