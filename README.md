@@ -135,6 +135,18 @@ Objetivo Específico
     
     (c) 280 nW
     Respuesta = **2.8 x 10^-7 [W]**
+    
+27. Realice las conversiones indicadas:
+
+    (a) 5 mA a microamperes 
+    Resolvemos = 0.005 x 10^-6 [A]
+    
+    	
+    (b) 3200 uW a miliwatts
+    
+    (c) 5000 kV a megavolts
+    
+    (d) 10 MW a kilowatts 
 	      
 		
 
