@@ -225,11 +225,13 @@ Objetivo Específico
   Resolvemos mediante la formula **V = W/Q**
    
     V = 10 J/C
+    
    **V = 10 V**
    
    (b) 5J/2C
    
     V = 5J/2C
+    
    **V = 2.5 V**
    
    (c) 100J/25C
@@ -237,6 +239,7 @@ Objetivo Específico
     V = 100 J/25 C
    
     V = 4(25) J/25 C
+    
    **V = 4 V**
 
 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
