@@ -197,7 +197,7 @@ Resolvemos = 120 x 10^3 + 2.2 x 10^6
 = 120 x 10^3 + 2200 x 10^3
 = 2.32 x 10^3
 = 2.32 x 10^6
-= **2.32 MΩ
+= **2.32 MΩ**
 
 (c) 0.02 uF + 3300 pF
 
@@ -205,7 +205,6 @@ Resolvemos = 0.02 x 10^3 F + 3300 x 10^-12 F
 = 0.02 x 10^-6 F + 0.0033 X 10^-6 F
 = 0.0233 X 10^-6 F
 = **0.0233 uF**
-
 
 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
 
