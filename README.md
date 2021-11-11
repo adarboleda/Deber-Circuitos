@@ -24,6 +24,12 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93733175/141224046-fe15b4cc-9204-46b8-95a6-537b7c409ed3.png)
 
+![image](https://user-images.githubusercontent.com/93733175/141258039-761b7ed4-1306-4fb1-8729-ce553cb42d9d.png)
+
+![image](https://user-images.githubusercontent.com/93733175/141258248-57fd6070-f4ba-428a-ab22-38c22f896753.png)
+
+![image](https://user-images.githubusercontent.com/93733175/141258347-369071b5-80d8-486e-8cc0-d82631d137de.png)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -96,8 +102,9 @@ Objetivo Específico
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
 
 a) 0.000345  
-   Resolvemos = 345 x 10^-6  
-    	      =**345 uA**
+   Resolvemos = 345 x 10^-6
+    	      =**345 uA
+	      
 		
 
 
