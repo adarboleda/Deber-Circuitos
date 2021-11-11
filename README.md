@@ -104,7 +104,15 @@ Objetivo Específico
 
     (a) 0.000345
      Resolvemos = 345 x 10^-6
-             **=345 uA**
+     **= 345 uA**
+             
+    (b) 0.025
+    Resolvemos = 25 x 10^-3
+    **= 25 mA**
+    
+    (c) 0.00000000129
+    Resolvemos = 1.29 x 10^-9
+    **= 1.29 nA**
     	      
 23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 
