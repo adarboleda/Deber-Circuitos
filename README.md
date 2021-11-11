@@ -30,6 +30,13 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93733175/141259156-6c0687dc-b3c5-4569-a0b8-f419acb582e8.png)
 
+![imagen](https://user-images.githubusercontent.com/93879569/141301626-0b071843-61d9-427a-8374-99eddef26619.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/141301711-beb66fdc-a268-4ab2-a30e-f39fa43c9a0d.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/141301780-8f7916ad-572d-42e5-ac4c-c01cbcd410ad.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/141301838-807a030c-6669-4bcd-a6de-534410e6cbab.png)
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -202,6 +209,171 @@ Resolvemos = 0.02 x 10^3 F + 3300 x 10^-12 F
 35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:                                                                                                                                                                       
 VS1 conectada a R1 y VS2 conectada a R2                                                                                                                                      o                                                                                                                                                                           
 VS1 conectada a R2 y VS2 conectada a R1
+
+Sección 2 – 3 Voltaje corriente y resistencia
+
+11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
+
+Datos:
+
+Q = 6/10   C
+
+t = 3 s
+
+Planteamiento 
+
+I=  Q/t
+
+Procedimiento
+
+I=  ( 6/10  C)/(3 s)
+
+I=  2/10   C/s
+
+I=0.2 A
+ 
+13. ¿Cuántos coulomb pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
+Datos 
+
+t = 0.1 s
+
+I = 1.5 A
+
+Planteamiento
+
+I=  Q/t
+
+Q=I*t
+
+Procedimiento
+
+Q=1.5  C/s*0.1 s
+
+Q=0.15 C
+
+15. Determine la conductancia para cada uno de los siguientes valores de resistencia:
+
+(a) 5 Ω 		(b) 25 Ω	(c) 100 Ω
+
+Planteamiento
+
+Conductancia: 	G = 1/R , siendo R la resistencia
+
+(a)
+
+G=  1/(5 Ω)
+
+G=0.2 mho
+
+(b)
+
+G=  1/(25 Ω)
+
+G=0.04 mho
+
+(c)
+
+G=  1/(100 Ω)
+
+G=0.01 mho
+
+Sección 2 – 4
+
+17. Enliste cuatro fuentes de voltaje comunes.
+
+Batería
+
+Celda solar
+
+Generador
+
+Termopares
+
+19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+
+La fuente electrónica de potencia convierte el voltaje de corriente alterna de una toma de corriente de pared en voltaje constante de corriente directa
+
+Sección 2 – 5
+
+21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
+
+(a) rojo, violeta, naranja, oro 
+
+Respuesta: 27 000 Ω y tolerancia del ± 5 % 
+
+(b) café, gris, rojo, plata
+
+Respuesta: 1 800 Ω y tolerancia del ± 10 %
+
+23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de
+tolerancia: 330 Ω, 2.2 kΩ, 56 kΩ,  100 kΩ y 39 kΩ
+
+330 Ω = naranja, naranja, café y oro.
+
+2.2 kΩ = 2 200 Ω = rojo, rojo, rojo y oro.
+
+56 kΩ = 56 000 Ω = verde, azul, naranja y oro.
+
+100 kΩ = 100 000 Ω = café, negro, amarillo y oroz.
+
+39 k Ω = 39 000 Ω = naranja, blanco, naranja y oro.
+
+25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
+
+(a) 0.47 Ω	 (b) 270 kΩ 	(c) 5.1 M Ω
+
+(a) 0.47 Ω = amarillo, violeta, plata y oro.
+
+(b) 270 k Ω = 270 000 Ω = rojo, violeta, amarillo y oro.
+
+(c) 5.1 M Ω = verde, café, azul y oro. (debido a que es Mega ohmio posee 6 ceros.)
+
+27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
+
+(a) 14.7 k Ω	 (b) 39.2 Ω	 (c) 9.76 kΩ
+
+(a) 14.7 k Ω = 14 700 Ω = café, amarillo, violeta, rojo y café.
+
+(b) 39.2 Ω = naranja, blanco, rojo, oro y café.
+
+(c) 9.76 k Ω = 9 760 Ω = blanco, violeta, azul, café y café.
+
+29. ¿Cuál es la resistencia indicada por 4K7?
+4K7 = 4.7 k Ω
+
+43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+
+![imagen](https://user-images.githubusercontent.com/93879569/141302449-e73de653-3731-4464-97b6-29b650d51624.png)
+
+Respuesta : 250 V
+
+45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de óhmetro:
+
+(a) manecilla en 2, ajuste de intervalo en 10
+
+2 * 10 Ω = 20 Ω
+
+(b) manecilla en 15, ajuste de intervalo en 100,000
+
+15 * 100000 = 15 * 0,1 M Ω = 1.5 M Ω
+
+(c) manecilla en 45, ajuste de intervalo en 100
+
+45 * 100 Ω = 4500 Ω 
+
+47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
+
+(a)  I_1 	(b) V_1	 	(c) R_1
+
+![imagen](https://user-images.githubusercontent.com/93879569/141302634-28fdc3e3-a7a4-4f92-a237-9a8b9f74b650.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/141302719-83450463-bbd5-4857-af0f-ec1ed2f7f6ec.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/141302781-45a3a6f6-f54a-44f5-ad88-f70592c9902b.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/141302831-1cb63c1a-67cc-433b-88ac-7c714b6e3d12.png)
+
+
 4. VIDEO
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
@@ -212,6 +384,11 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 * Como conclusión, se tiene que existen dos unidades de medición, las fundamentales que a su vez se van a dividir en siete unidades fundamentales y dos unidades complementarias, por otro lado, existen las unidades derivadas, las cuales son utilizadas por las unidades eléctricas y magnéticas. De igual manera la notacion científica es de suma importancia puesto que va a ayudar a representar numeros muy grandes o muy pequeños para posteriormente poder realizar calculos con estos.
 * También se tiene se tiene que la notación de ingeniería es importante en los campos técnicos, específicamente en electrónica se usa para representar valores de voltaje, corriente, potencia, resistencia, entre otros. Esta está relacionada con los prefijos métricos que son usados exclusivamente con números que tienen una unidad de medida como volts o amperes, como ejemplos de prefijos se tiene mili, kilo, mega, entre otros. Convertir unidades es fundamental puesto que muchas veces es necesario convertir la cantidad de una unidad que tiene un prefijo métrico a otra. 
+* Un circuito necesita tener al menos una resistencia para que no se genere un cortocircuito, y el código de colores es clave para saber que resistor agregar al circuito según la fuente de electricidad.
+* Al utilizar un instrumento de medición se debe tener un previo conocimiento de cómo se debe conectar al circuito para saber una medida en particular y para el cuidado del dispositivo se debe tener en cuenta la cantidad de voltaje que aguanta para no dañar el equipo.
+* Al realizar trabajos con circuitos es necesario conocer las medidas de seguridad para no ocasionar daños al entorno y a la persona misma como un ejemplo es la conexión tierra en tierra es necesaria para dispersar el exceso de voltaje que pudiera haber.
+
+
 
 6. BIBLIOGRAFÍA
 
