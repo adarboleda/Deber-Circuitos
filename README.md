@@ -138,18 +138,29 @@ Objetivo Específico
     
 27. Realice las conversiones indicadas:
 
-    (a) 5 mA a microamperes 
+    (a) 5 mA a microampereS
     Resolvemos = 0.005 x 10^-6 [A]
     = 0.0000000005 [A]
     =5000 X 10^-6 [A]
     = **5000 uA**
-    
-    	
+        	
     (b) 3200 uW a miliwatts
+    Resolvemos = 3200 x 10^-6 
+    = 3.2 x 10^-6+3
+    = 3.2 x 10^-3
+    = **3.2 mW** 
     
     (c) 5000 kV a megavolts
-    
+    Resolvemos = 5000 x 10^3
+    = 5 x 10^3+3
+    = 5 x 10^6
+    = **5 MV**
+       
     (d) 10 MW a kilowatts 
+    Resolvemos = 10 x 10^6
+    = 10.000.000
+    = 10.000 x 10^3
+    = **10.000 kW**
 	      
 		
 
