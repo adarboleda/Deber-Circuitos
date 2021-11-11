@@ -96,9 +96,9 @@ Objetivo Específico
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
 
 a) 0.000345
-Resolvemos 
+``Resolvemos 
 = 345 x 10^-6
-= **345 uA**
+``= **345 uA**
 		
 
 
