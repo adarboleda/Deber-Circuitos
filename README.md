@@ -22,6 +22,9 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93734334/140847166-ea3eff6d-f011-4bf4-981a-e3cc4e19cabd.png)
 
+![image](https://user-images.githubusercontent.com/93733175/141224046-fe15b4cc-9204-46b8-95a6-537b7c409ed3.png)
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 1) Exprese cada uno de los números siguientes en notación científica:                                                                                                                
@@ -60,7 +63,7 @@ Objetivo Específico
 
 * (5 x 10^3)(4 x 10^5) = 5x4 x 10^(3+5) = **2 x 10^9**
 * (1.2 x 10^12)(3 x 10^2) = 1.2x3 x 10^(12+2) = **3.6 x 10^14**
-* (2.2 x 10^-9)(7 x 10^-6) = 2.2x7 x 10^(-9-6) = **1.54 x 10^-14**
+* (2.2 x 10^-9)(7 x 10^-6) = 2.2x7 x 10^(-9-6) = **15.4 x 10^-15**
 
 13. Exprese cada uno de los números siguientes en notación de ingeniería:                                                                                                         
 (a) 89,000 (b) 450,000 (c) 12,040,000,000,000
@@ -72,23 +75,23 @@ Objetivo Específico
 15. Exprese cada número en notación de ingeniería:                                                                                                                                 
 (a) 0.000345 (b) 0.025 (c) 0.00000000129
 
-* 0.000345 = **345 x 10^-6**
-* 0.025 = **25 x 10^-3**
-* 0.00000000129 = **1.29 x 10^-9**
+* 0.000345 = **34.5 x 10^-6**
+* 0.025 = **2.5 x 10^-3**
+* 0.00000000129 = **0.129 x 10^-9**
 
 17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:                                                                                         
 (a) (2.5 x 10^-3) + (4.6 x 10^-3) (b) (68 x 10^6) + (33 x 10^6) (c) (1.25 x 10^6) + (250 x 10^3)
 
 * (2.5 x 10^-3) + (4.6 x 10^-3) = 2.5 + 4.6 = **7.1 x 10^-3**
 * (68 x 10^6) + (33 x 10^6) = 68 + 33 = **101 x 10^6**
-* (1.25 x 10^6) + (250 x 10^3) = (1250000 x 10^3) + (250 x 10^3) = **1.50 x 10^6**
+* (1.25 x 10^6) + (250 x 10^3) = (1250000 x 10^3) + (250 x 10^3) = 1250250 x 10^3 = **1250,250 x 10^6**
 
 19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:                                                                                       
 (a) 50 ÷ (2.2 x 10^3) (b) (5 x 10^3) ÷ (25 x 10^6) (c) 560 x 10^3 ÷ (660 x 10^3)
 
 * 50 ÷ (2.2 x 10^3) = (5 x 10^1) ÷ (2.2 x 10^3) = 5/2.2 x 10^(1-3) = 2.27 x 10^-2 = **22.7 x 10^-3**
-* (5 x 10^3) ÷ (25 x 10^6) = 5/25 x 10^(3-6) = **200 x 10^6**
-* 560 x 10^3 ÷ (660 x 10^3) = 560/660 x 10^(3-3) = **848 x 10^-3**
+* (5 x 10^3) ÷ (25 x 10^6) = 5/25 x 10^(3-6) = **0.2 x 10^-3**
+* 560 x 10^3 ÷ (660 x 10^3) = 560/660 x 10^(3-3) = 0.848485 x 10^0 = **84.8485 x 10^-3**
 
 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
 
@@ -109,12 +112,6 @@ Objetivo Específico
 35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:                                                                                                                                                                       
 VS1 conectada a R1 y VS2 conectada a R2                                                                                                                                      o                                                                                                                                                                           
 VS1 conectada a R2 y VS2 conectada a R1
-
-**Respuesta**
-
-![image](https://user-images.githubusercontent.com/93734334/141224148-c8591647-d1b4-476f-ad2f-7812eeb0f6cd.png)
-
-
 4. VIDEO
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
